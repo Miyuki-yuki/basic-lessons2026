@@ -1,5 +1,11 @@
 1021
 -github commands
+  git init / git add . / git login 
+  git clone /git commit /git push
+  
 -termiinal command review
+ 
 -python while loop
+
+-python password condition/print
 -python new project
