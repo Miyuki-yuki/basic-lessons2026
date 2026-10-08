@@ -1,0 +1,5 @@
+1021
+-github commands
+-termiinal command review
+-python while loop
+-python new project
