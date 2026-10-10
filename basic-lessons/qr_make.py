@@ -2,10 +2,10 @@
 import qrcode
 from PIL import Image
 
-# QRコードのインスタンスを作る
+# QR instance
 qr = qrcode.QRCode()
 
-# QRコードにするデータ、URLなどの指定
+# QR data define
 qr.add_data('https://everydayprogramming.dev/editor.html')
 
 # data -> transfer into qr style
