@@ -1,4 +1,5 @@
 # print statement
+# data type
 # variables 
 # f string
 # if conditions
