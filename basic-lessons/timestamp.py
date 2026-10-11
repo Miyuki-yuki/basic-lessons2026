@@ -1,8 +1,6 @@
 # timestamp
 
 from datetime import datetime
-from datetime import datetime
-
 
 # print(date.today())
 

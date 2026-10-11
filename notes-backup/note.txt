@@ -1,0 +1,10 @@
+mkdir touch
+   1  mkdir notes
+   2  cd notes/
+   3  echo hello > note.txt
+   4  ls | wc -l
+   5  echo hello | cat
+   6  mkdir touch > note.txt
+   7  echo mkdir touch > note.txt
+   8  history
+   9  history >> note.txt
